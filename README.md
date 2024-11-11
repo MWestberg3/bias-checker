@@ -4,8 +4,8 @@ download dataset from link below and add the csv to the data folder.
 
 
 ## Issue Groups
-- **PRE:** Data Collection and Preprocessing
-- **RNN:** RNN Model Development
-- **IMP:** Baseline Model Implementation
-- **EXP:** Experimentation and Optimization
-- **DOC:** Documentation and Final Analysis
+1. **PRE:** Data Collection and Preprocessing
+2. **RNN:** RNN Model Development
+3. **IMP:** Baseline Model Implementation
+4. **EXP:** Experimentation and Optimization
+5. **DOC:** Documentation and Final Analysis
